@@ -1,0 +1,44 @@
+.abc {
+    margin-top: 90px;
+    margin-right: 80px;
+    font-size: 50px;
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center; 
+    color: chocolate;
+}
+.a3{
+    margin-right: 80px;
+}
+
+.a1{
+    margin-top:80px ;
+    margin-left: 100px;
+}
+.a5{
+    color: rgb(29, 161, 238);
+    font-size: medium;
+}
+body {
+    background-image: url("https://png.pngtree.com/png-clipart/20220914/original/pngtree-happy-navratri-and-dandiya-sticks-frame-png-image_8617796.png");
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;   
+    background-position: center; 
+    height: 100vh;                
+}
+h3 {
+    text-align: center;
+    color: indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.a2{
+
+    text-align: center;
+    margin-left: 170px;
+    margin-right:100px ;
+    color: chocolate;
+}
